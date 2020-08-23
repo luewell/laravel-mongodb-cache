@@ -1,11 +1,11 @@
 {
-    "name": "1ff/laravel-mongodb-cache",
+    "name": "luewell/laravel-mongodb-cache",
     "description": "A mongodb cache driver for laravel",
     "type": "library",
     "version": "2.11",
     "require": {
-        "jenssegers/mongodb": "3.*",
-        "illuminate/cache": "5.*|6.*"
+        "jenssegers/mongodb": "*",
+        "illuminate/cache": "*"
     },
     "license": "MIT",
     "authors": [
